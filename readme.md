@@ -14,7 +14,7 @@
 
 **if doing first time**
 ```sh
-git clone https://github.com/BIGBEASTISHANK/Sussy-Shooter-3D ; cd Sussy-Shooter/Game/Linux ; ./Sussy\ Shooter\ 3D.x86_64
+git clone https://github.com/BIGBEASTISHANK/Sussy-Shooter-3D ; cd Sussy-Shooter-2D/Game/Linux ; ./Sussy\ Shooter\ 3D.x86_64
 ```
 **if already played once**
 - just execute the game file by going in game folder in your local storage
