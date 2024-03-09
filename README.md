@@ -12,4 +12,4 @@ You have to kill enemies in 3 different room with 2 different guns (Piston & RPG
 ---
 
 # Download
-To install game on your prefered platform please visit [Release Tab](https://github.com/BIGBEASTISHANK/Sussy-Shooter-3D/releases)
+To install game on your prefered platform please visit [Release Tab](/releases)
