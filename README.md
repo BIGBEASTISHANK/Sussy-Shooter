@@ -9,8 +9,8 @@ You have to kill enemies in 3 different room with 2 different guns (Piston & RPG
 
 ## Platform
 - Linux
-- Windows
-- Mac
+> [!Note]
+> This game was formerly accessible on MacOS and Windows; however, it was recently taken down because of a packing problem. Since this project was not intended for a large audience, the packaged game is not available for those operating systems; instead, you can build and package the game on the platform of your choice.
 
 ---
 
